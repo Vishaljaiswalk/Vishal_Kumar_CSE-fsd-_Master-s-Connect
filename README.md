@@ -15,7 +15,7 @@ colleges, and universities. We offer to Interact one on one with top university 
 
 Link to Video Explanation
 Master's Connect Video Explanation :
-
+https://github.com/Vishaljaiswalk/Vishal_Kumar_CSE-fsd-_Master-s-Connect/blob/main/A%20Video%20Explanation.mp4
 
 Technologies Used:
 
