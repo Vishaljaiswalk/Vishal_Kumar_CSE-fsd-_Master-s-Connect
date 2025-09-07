@@ -57,7 +57,7 @@ cd Vishal_Kumar_CSE-fsd-_Master-s-Connect
 * Start a new Codespace or use an existing one.
 * In the terminal, install a simple HTTP server (if not already installed):
   npm install -g http-server
-* Access the website at the provided Codespaces URL (e.g., http://localhost:8080).
+* Access the website at the provided Codespaces URL (e.g., https://mastersconnect.art/.).
 
 
 
